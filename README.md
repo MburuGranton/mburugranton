@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mburugranton
-- 👀 I’m interested in Frontend Web Devellopment and Machine Learning.
+- 👀 I’m interested in Frontend Web Development and Machine Learning.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript Projects.
 - 📫 Reach me through my email , mburugranton@gmail.com
